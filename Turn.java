@@ -19,9 +19,6 @@ public class Turn {
 
     /**
      * Class constructor.
-    */
-   
-   /**
      * Creates a turn starting with the selected player.
      * 
      * @param int v - adjust the value
